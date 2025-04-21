@@ -3,6 +3,16 @@
 This project is an AI-powered image classification system for recognizing fruits and vegetables using **Convolutional Neural Networks (CNNs)** and **Transfer Learning**.
 
 ---
+---
+
+## 🧾 Project Overview
+
+This project presents an image recognition system that classifies fruits and vegetables based on visual features like color, shape, and texture. Using **Convolutional Neural Networks (CNNs)** and **Transfer Learning**, the model is trained to distinguish between 36 types of fruits and vegetables.
+
+The system is useful in automation for grocery, food sorting, and quality control. It offers a high-accuracy, scalable solution to real-world classification challenges in the food industry.
+
+---
+
 
 ## 📌 Highlights
 
@@ -19,7 +29,6 @@ This project is an AI-powered image classification system for recognizing fruits
 | File | Description |
 |------|-------------|
 | `testing_models.ipynb` | Jupyter notebook implementing the CNN model and testing it |
-| `Fruit Veg reconginisation.pdf` | Full project report including dataset, architecture, results, and conclusion |
 
 ---
 
